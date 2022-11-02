@@ -30,3 +30,5 @@ pet_two = Pet("Bubbles", "cat")
 # %%
 pet_one.hello()
 # %%
+pet_new = Pet('Waldo', 'dog')
+pet_new2 = Pet('Waldo', 'dog')
